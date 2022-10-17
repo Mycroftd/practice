@@ -17,5 +17,6 @@ What is orange? Why, an orange,
 Just an orange!
 Green
 Yellow
+Indigo
 Another Colour
 Testing 
